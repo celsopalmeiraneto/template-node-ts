@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/celsopalmeiraneto/template-node-ts/compare/v1.0.0...v1.1.0) (2022-12-10)
+
+
+### Features
+
+* adds lint script ([4c66a35](https://github.com/celsopalmeiraneto/template-node-ts/commit/4c66a35d49780af6499cf2bf625158dbca8cda51))
+
 ## 1.0.0 (2022-09-25)
 
 
