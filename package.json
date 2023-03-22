@@ -20,7 +20,7 @@
   "devDependencies": {
     "@hapi/code": "9.0.2",
     "@hapi/lab": "25.0.1",
-    "@types/node": "16.11.7",
+    "@types/node": "18.15.5",
     "@types/sinon": "10.0.13",
     "@typescript-eslint/eslint-plugin": "5.46.0",
     "@typescript-eslint/parser": "5.46.0",
