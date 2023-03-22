@@ -2,13 +2,14 @@
   "name": "template-node-ts",
   "version": "1.1.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "license": "Unlicense",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node dist/src/index.js",
     "test": "lab --verbose",
     "build": "tsc",
-    "lint": "eslint src/**"
+    "lint": "eslint src/**",
+    "local": "npm run build && npm run start"
   },
   "repository": {
     "type": "git",
